@@ -12,7 +12,7 @@
 * **set1.av/set1.sd:** The average and standard deviation as calculated for each measurement for the test team
 * **set2.av/set2.sd:** The average and standard deviation as calculated for each measurement for the train team
 
-* **df1/df2:** The datasets created by the combination of the _sub.t_, _act_, _set.av_ and _set.sd_
-* **df:** The final dataset created by putting together df1 and df2. This is the sum of the participants
+* **df1/df2:** The datasets created by the combination of the ***sub.t***, ***act***, ***set.av*** and ***set.sd***
+* **df:** The final dataset created by putting together ***df1*** and ***df2***. This is the sum of the participants
 
 * **act.lbl:** The activity codes with the description of each
