@@ -17,6 +17,7 @@
 * **df:** The final dataset created by putting together ***df1*** and ***df2***. This is the sum of the participants
 
 * **act.lbl:** The activity codes with the description of each
+
 ##In the Output
 * **activity:** Describes the activity from which the data were extracted from
 * **subject:** Refers to the participant from which the measurement was made
