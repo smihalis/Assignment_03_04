@@ -19,7 +19,7 @@
 * **act.lbl:** The activity codes with the description of each
 
 ##In the Output
-* **activity:** Describes the activity from which the data were extracted from
+* **activity:** Describes the activity from which the data were extracted
 * **subject:** Refers to the participant from which the measurement was made
 * **mean:** The average of the measurements made for the corresponding participant and activity
 * **s.d:** The average of the standard error of the measurement for the corresponding participant and activity
